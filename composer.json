@@ -1,5 +1,5 @@
 {
-    "name": "administrator/composer-example",
+    "name": "poiuy0875/composer-example",
     "description": "this is a test",
     "autoload": {
         "psr-4": {
