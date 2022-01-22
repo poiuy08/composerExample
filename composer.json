@@ -1,0 +1,17 @@
+{
+    "name": "administrator/composer-example",
+    "description": "this is a test",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/",
+            "test\\": "test/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phl",
+            "email": "768725259@qq.com"
+        }
+    ],
+    "require": {}
+}
